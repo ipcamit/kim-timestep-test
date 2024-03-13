@@ -1,0 +1,20 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!                                                !!!!!
+!!!!!  VERIFICATION CHECK: vc-md-timestep-stability  !!!!!
+!!!!!                                                !!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Description: TODO: Add a description of the verification check here.
+
+Author: Amit Gupta
+Generating test lattice for Si
+Sampling temperature = 10.0
+Failure for species Si at temperature 10.0.
+Number of successful simulations = 0 for T = 10.0
+Sampling temperature = 100.0
+
+ERROR: Unable to perform verification check.
+
+ Message = 

@@ -1,0 +1,24 @@
+{
+    "contributor-id" "360c0aed-48ce-45f6-ba13-337f12a531e8" 
+    "description" "This verification checks run MD simulations at various temperatures and timesteps, and grade their stability." 
+    "developer" [
+        "360c0aed-48ce-45f6-ba13-337f12a531e8"
+    ] 
+    "doi" "10.25950/6ae3d5ed" 
+    "domain" "openkim.org" 
+    "executables" [
+        "runner"
+    ] 
+    "extended-id" "MDStabilityCheck__VC_000000000000_000" 
+    "kim-api-version" "2.0" 
+    "maintainer-id" "360c0aed-48ce-45f6-ba13-337f12a531e8" 
+    "matching-models" [
+        "standard-models"
+    ] 
+    "properties" [
+        "tag:tadmor@noreply.openkim.org,2017-02-01:property/verification-check"
+    ] 
+    "publication-year" "2019" 
+    "simulator-name" "ase" 
+    "title" "Verification check of MD stability time step and temperature"
+}

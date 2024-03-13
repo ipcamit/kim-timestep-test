@@ -1,0 +1,25 @@
+{
+  "property-id"           "tag:tadmor@noreply.openkim.org,2017-02-01:property/verification-check"
+  "instance-id"           1
+  "vc-name" {
+    "source-value"        "vc-md-timestep-stability"
+  }
+  "vc-description" {
+    "source-value"        "TODO: Add a description of the verification check here."
+  }
+  "vc-category" {
+    "source-value"        "consistency"
+  }
+  "vc-grade-basis" {
+    "source-value"        "graded"
+  }
+  "vc-grade" {
+    "source-value"        "N/A"
+  }
+  "vc-comment" {
+    "source-value"        "Unable to perform verification check due to an error."
+  }
+  "vc-files" {
+    "source-value"        []
+  }
+}

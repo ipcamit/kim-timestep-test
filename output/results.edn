@@ -1,0 +1,97 @@
+{
+    "property-id" "tag:staff@noreply.openkim.org,2024-03-11:property/maximum-stable-langevin-timestep" 
+    "instance-id" 1 
+    "prototype-label" {
+        "source-value" "AB_cF8_225_a_b"
+    } 
+    "stoichiometric-species" {
+        "source-value" [
+            "Cl" 
+            "Na"
+        ]
+    } 
+    "a" {
+        "source-value" 4.58 
+        "source-unit" "angstrom"
+    } 
+    "library-prototype-label" {
+        "source-value" "AB_cF8_225_a_b"
+    } 
+    "short-name" {
+        "source-value" [
+            "Rock Salt"
+        ]
+    } 
+    "maximum-stable-timestep" {
+        "source-value" 0.001 
+        "source-unit" "ps"
+    } 
+    "maximum-stable-timestep-per-temperature" {
+        "source-value" [
+            [
+                10.0 
+                1e-06
+            ] 
+            [
+                10.0 
+                1e-05
+            ] 
+            [
+                10.0 
+                0.0001
+            ] 
+            [
+                10.0 
+                0.001
+            ] 
+            [
+                100.0 
+                1e-06
+            ] 
+            [
+                100.0 
+                1e-05
+            ] 
+            [
+                100.0 
+                0.0001
+            ] 
+            [
+                100.0 
+                0.001
+            ] 
+            [
+                1000.0 
+                1e-06
+            ] 
+            [
+                1000.0 
+                1e-05
+            ] 
+            [
+                1000.0 
+                0.0001
+            ] 
+            [
+                1000.0 
+                0.001
+            ] 
+            [
+                10000.0 
+                1e-06
+            ] 
+            [
+                10000.0 
+                1e-05
+            ] 
+            [
+                10000.0 
+                0.0001
+            ] 
+            [
+                10000.0 
+                0.001
+            ]
+        ]
+    }
+}
