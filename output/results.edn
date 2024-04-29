@@ -23,10 +23,10 @@
         ]
     } 
     "maximum-stable-timestep" {
-        "source-value" 0.001 
+        "source-value" 1e-05 
         "source-unit" "ps"
     } 
-    "maximum-stable-timestep-per-temperature" {
+    "all-stable-timestep-per-temperature" {
         "source-value" [
             [
                 10.0 
@@ -37,28 +37,12 @@
                 1e-05
             ] 
             [
-                10.0 
-                0.0001
-            ] 
-            [
-                10.0 
-                0.001
-            ] 
-            [
                 100.0 
                 1e-06
             ] 
             [
                 100.0 
                 1e-05
-            ] 
-            [
-                100.0 
-                0.0001
-            ] 
-            [
-                100.0 
-                0.001
             ] 
             [
                 1000.0 
@@ -69,28 +53,12 @@
                 1e-05
             ] 
             [
-                1000.0 
-                0.0001
-            ] 
-            [
-                1000.0 
-                0.001
-            ] 
-            [
                 10000.0 
                 1e-06
             ] 
             [
                 10000.0 
                 1e-05
-            ] 
-            [
-                10000.0 
-                0.0001
-            ] 
-            [
-                10000.0 
-                0.001
             ]
         ]
     }

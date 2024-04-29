@@ -13,7 +13,7 @@
     "description" "The largest stable timestep possible for Langevin dynamics for all temperatures tested."
   }
 
-  "maximum-stable-timestep-per-temperature" {
+  "all-stable-timestep-per-temperature" {
     "type"         "float"
     "has-unit"     false
     "extent"       [":",2]
